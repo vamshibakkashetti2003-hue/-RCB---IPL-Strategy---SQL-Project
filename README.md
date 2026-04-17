@@ -23,9 +23,6 @@ Analyze IPL team performance and identify strategic insights using SQL.
 - RCB has strong batting but weak bowling
 - Lack of middle-order consistency
 - Toss decision impacts win rate
-
-## 📸 Screenshots
-(Add screenshots here)
-
+- 
 ## 🚀 Conclusion
 This project demonstrates strong SQL skills and ability to derive business insights.
